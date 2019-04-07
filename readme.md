@@ -1,3 +1,16 @@
+<h1>Quick Information</h1>
+<p>This Project was made for Summer School Contest (IUT Freshman year). It is fully finished with both Front-end & Back-end. Tool for online smart attendance.</p>
+<h3>Needed to remove to the Local Server folder for use</h3>
+    <ol>
+        <li>Install XAMPP Control Panel</li>
+        <li>Download the current Project to the C:\xampp\htdocs</li>
+        <li>Open console type: cd C:\xampp\htdocs\IUT_attendance</li>
+        <li>Console type: php artisan serve</li>
+        <li>Open shown address on the console from any Browser</li>
+        <li>Enjoy it!</li>
+    </ol>
+<br>
+<hr>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
