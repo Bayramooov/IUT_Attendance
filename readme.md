@@ -3,9 +3,10 @@
 <h3>Needed to remove to the Local Server folder for use</h3>
     <ol>
         <li>Install XAMPP Control Panel</li>
-        <li>Download the current Project to the C:\xampp\htdocs</li>
-        <li>Open console type: cd C:\xampp\htdocs\IUT_attendance</li>
-        <li>Console type: php artisan serve</li>
+        <li>Download the current Project to the "C:\xampp\htdocs"</li>
+        <li>Open console type: "cd C:\xampp\htdocs\IUT_attendance"</li>
+        <li>Console type: "php artisan migrate"</li>
+        <li>Console type: "php artisan serve"</li>
         <li>Open shown address on the console from any Browser</li>
         <li>Enjoy it!</li>
     </ol>
